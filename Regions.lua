@@ -238,7 +238,8 @@ PR.REGION_REALMS = {
 	},
 
 	["fre"] = {
-		"Arak-arahm",
+		--"Arak-arahm",
+		"Arakarahm",
 		"Arathi",
 		"Archimonde",
 		"Chants éternels",
