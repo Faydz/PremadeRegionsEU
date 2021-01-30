@@ -5,7 +5,7 @@ https://www.curseforge.com/wow/addons/premade-regions-europe
 
 ## ---
 
-> [For players in the Oceanic regions (Australia and New Zealand)].(https://www.curseforge.com/wow/addons/premade-regions)
+> [For players in the Oceanic regions (Australia and New Zealand).](https://www.curseforge.com/wow/addons/premade-regions)
 
 ## ---
 
