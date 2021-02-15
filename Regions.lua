@@ -138,6 +138,7 @@ PR.REGION_REALMS = {
 		"Aszune",
 		"Auchindoun",
 		"Azjol-Nerub",
+		"AzjolNerub",
 		"Azuremyst",
 		"Balnazzar",
 		"Blade's Edge",
