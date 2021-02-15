@@ -18,5 +18,3 @@ The addon also provides data for the [Premade Groups Filter](https://www.cursefo
 When used as a standalone add-on it will show the region of the group leader or applicant. When used in combination with [Premade Groups Filter](https://www.curseforge.com/wow/addons/premade-groups-filter) you can also filter the group by the group leaders region.
 
 ![Screenshot](screenshot.png)
-
- Please refer to the Addons main development page at github.com/Faydz/PremadeRegionsEU for more information
