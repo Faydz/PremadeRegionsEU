@@ -252,7 +252,7 @@ PR.REGION_REALMS = {
 		"Drek'Thar",
 		"Eldre'Thalas",
 		"Elune",
-		"Eitrigg"
+		"Eitrigg",
 		"Garona",
 		"Hyjal",
 		"Illidan",
