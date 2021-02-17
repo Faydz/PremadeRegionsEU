@@ -15,6 +15,8 @@ When used as a standalone add-on it will show the region of the group leader or 
 
 [Project on Curse.com](https://www.curseforge.com/wow/addons/premade-regions-europe)
 
+[Issue/Problem Page on github.com](https://github.com/Faydz/PremadeRegionsEU/issues)
+
 [Premade Groups Filter on Curse.com](https://www.curseforge.com/wow/addons/premade-groups-filter)
 
 [For players in the Oceanic regions (Australia and New Zealand) on Curse.com](https://www.curseforge.com/wow/addons/premade-regions)
