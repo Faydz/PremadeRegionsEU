@@ -15,7 +15,7 @@ PR.RealmUnknownPrinted = {}
 
 function PR.PrintGlobalRegionNotSupported()
     if not PR.GlobalRegionNotSupportedPrinted then
-        print("Premade Regions Europe support the 'Europe' region"..
+        print("Premade Regions Europe only support the 'Europe' region"..
                 "for US take Premade Regions https://github.com/0xbs/premade-regions")
         PR.GlobalRegionNotSupportedPrinted = true
     end
@@ -23,7 +23,7 @@ end
 
 function PR.PrintRealmNotFound(realm)
     if realm and not PR.RealmUnknownPrinted[realm] then
-        print("Premade Regions: the realm "..realm.." could not be matched to a region. "..
+        print("Premade RegionsEU: the realm "..realm.." could not be matched to a region. "..
                 "Please open an issue at https://github.com/Faydz/PremadeRegionsEU/issues")
         PR.RealmUnknownPrinted[realm] = true
     end
