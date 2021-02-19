@@ -1,6 +1,6 @@
 ## Interface: 90002
 ## Title: Premade Regions Europe
-## Version: 1.1.3
+## Version: 1.1.4
 ## Notes: Provides region information in the premade groups and applicants listings as well as to other addons.
 ## Author: Faydz (github.com/Faydz)
 ## SavedVariables:
