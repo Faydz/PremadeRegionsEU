@@ -21,13 +21,13 @@ PR.REGION_TEXT_META.__index = function (table, key) return "Unknown" end
 setmetatable(PR.REGION_TEXT, PR.REGION_TEXT_META)
 
 PR.REGION_COLORED = {
-	["ger"] = "|c00FFFF00GER|r",
-	["eng"] = "|cFF009900ENG|r",
+	["ger"] = "|c0000FF00GER|r",
+	["eng"] = "|c00FFFFFFENG|r",
 	["fre"] = "|c006969FFFRE|r",
 	["rus"] = "|c00FF0000RUS|r",
-	["esp"] = "|c0096FF96ESP|r",
-	["ita"] = "|c000000FFITA|r",
-	["por"] = "|c00FF7F00POR|r",
+	["esp"] = "|c00FFFF00ESP|r",
+	["ita"] = "|c0000FF00ITA|r",
+	["por"] = "|cffbd00ffPOR|r",
 }
 
 PR.REGION_COLORED_META = {}
