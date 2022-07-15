@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 -- Premade Regions Europe
 -------------------------------------------------------------------------------
--- Copyright (c) 2021 Faydz (gihub.com/Faydz)
+-- Copyright (c) 2021-2022 Faydz (gihub.com/Faydz)
 -- ORIGINAL for US by
 -- Copyright (c) 2019 Bernhard Saumweber (gihub.com/0xbs)
 --                and github.com/Rustyb0y
